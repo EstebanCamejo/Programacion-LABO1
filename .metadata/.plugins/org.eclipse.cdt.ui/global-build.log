@@ -1,0 +1,5 @@
+11:30:38 **** Incremental Build of configuration Debug for project Clase4OK ****
+Info: Internal Builder is used for build
+gcc -O0 -g3 -Wall -c -fmessage-length=0 -o "src\\Clase4OK.o" "..\\src\\Clase4OK.c" 
+gcc -o Clase4OK.exe "src\\Clase4OK.o" 
+Info: Nothing to build for Clase4OK

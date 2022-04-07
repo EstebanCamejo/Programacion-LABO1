@@ -1,0 +1,16 @@
+10:39:13 **** Rebuild of configuration Debug for project practicas ejercicios ****
+Info: Internal Builder is used for build
+g++ -O0 -g3 -Wall -c -fmessage-length=0 -o "src\\practicas ejercicios.o" "..\\src\\practicas ejercicios.cpp" 
+..\src\practicas ejercicios.cpp: In function 'int main()':
+..\src\practicas ejercicios.cpp:22:2: error: expected initializer before 'for'
+   22 |  for (i=0; i<2;i++){
+      |  ^~~
+..\src\practicas ejercicios.cpp:22:12: error: 'i' was not declared in this scope
+   22 |  for (i=0; i<2;i++){
+      |            ^
+..\src\practicas ejercicios.cpp:28:2: error: 'totalSuma' was not declared in this scope
+   28 |  totalSuma = numeroUno + numeroDos;
+      |  ^~~~~~~~~
+
+10:39:14 Build Failed. 3 errors, 0 warnings. (took 1s.676ms)
+

@@ -1,0 +1,9 @@
+10:39:05 **** Rebuild of configuration Debug for project Clase 4 lun ****
+Info: Internal Builder is used for build
+g++ -O0 -g3 -Wall -c -fmessage-length=0 -o "src\\Clase 4 lun.o" "..\\src\\Clase 4 lun.cpp" 
+..\src\Clase 4 lun.cpp:19:1: error: expected initializer before 'int'
+   19 | int main(void) {
+      | ^~~
+
+10:39:11 Build Failed. 1 errors, 0 warnings. (took 5s.752ms)
+
