@@ -8,4 +8,38 @@
 		<item key="size.width" value="640"/>
 		<item key="size.height" value="180"/>
 	</section>
+	<section name="org.eclipse.cdt.internal.ui.browser.opentype.OpenTypeActionSettings">
+		<item key="show_namespaces" value="true"/>
+		<item key="show_classes" value="true"/>
+		<item key="show_structs" value="true"/>
+		<item key="show_typedefs" value="true"/>
+		<item key="show_enums" value="true"/>
+		<item key="show_unions" value="true"/>
+		<item key="show_functions" value="true"/>
+		<item key="show_variables" value="true"/>
+		<item key="show_enumerators" value="true"/>
+		<item key="show_macros" value="true"/>
+		<item key="show_lowlevel" value="true"/>
+		<item key="x" value="588"/>
+		<item key="y" value="0"/>
+		<item key="width" value="745"/>
+		<item key="height" value="1020"/>
+	</section>
+	<section name="org.eclipse.cdt.internal.ui.callhierarchy.OpenElementInCallHierarchyActionSettings">
+		<item key="show_namespaces" value="false"/>
+		<item key="show_classes" value="false"/>
+		<item key="show_structs" value="false"/>
+		<item key="show_typedefs" value="false"/>
+		<item key="show_enums" value="false"/>
+		<item key="show_unions" value="false"/>
+		<item key="show_functions" value="true"/>
+		<item key="show_variables" value="true"/>
+		<item key="show_enumerators" value="true"/>
+		<item key="show_macros" value="false"/>
+		<item key="show_lowlevel" value="true"/>
+		<item key="x" value="604"/>
+		<item key="y" value="0"/>
+		<item key="width" value="713"/>
+		<item key="height" value="1020"/>
+	</section>
 </section>

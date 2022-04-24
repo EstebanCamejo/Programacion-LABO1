@@ -1,5 +1,5 @@
-21:47:06 **** Incremental Build of configuration Debug for project Ejercicio3-6 ****
+20:02:45 **** Incremental Build of configuration Debug for project Ejercicio6-3 ****
 Info: Internal Builder is used for build
-gcc -O0 -g3 -Wall -c -fmessage-length=0 -o "src\\Ejercicio3-6.o" "..\\src\\Ejercicio3-6.c" 
-gcc -o Ejercicio3-6.exe "src\\Ejercicio3-6.o" 
-Info: Nothing to build for Ejercicio3-6
+gcc -O0 -g3 -Wall -c -fmessage-length=0 -o "src\\Ejercicio6-3.o" "..\\src\\Ejercicio6-3.c" 
+gcc -o Ejercicio6-3.exe "src\\Ejercicio6-3.o" "src\\utn_getNumero.o" 
+gcc: error: src\utn_getNumero.o: No such file or directory
